@@ -2,4 +2,4 @@
 
 ## Screenshots
 
-![This is my picture]{'/workspaces/Bowling/Screenshot 2024-02-16 at 6.51.25 PM.png'}
+![This is my picture]('/workspaces/Bowling/Screenshot 2024-02-16 at 6.51.25 PM.png')
